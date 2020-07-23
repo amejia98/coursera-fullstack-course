@@ -1,2 +1,2 @@
-# coursera_test
+# coursera-fullstack-course
 Coursera test repository
