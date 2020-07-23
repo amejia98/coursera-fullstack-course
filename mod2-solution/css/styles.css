@@ -44,16 +44,16 @@
 	overflow: auto;
 }
 
-#chicken-title {
+#col-title-1 {
 	background-color: pink;
 }
 
-#beef-title {
+#col-title-2 {
 	background-color: red;
 	color: white;
 }
 
-#sushi-title {
+#col-title-3 {
 	background-color: yellow;
 }
 
